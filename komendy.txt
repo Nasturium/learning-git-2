@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>... </title>
+    <link rel="stylesheet" href="style.css">
+<body>
+    <h1> Żuk 
+    <h2>Jan Brzechwa</h2>
+    <div class="main">
+    <div class="one">Do biedronki przyszedł żuk,<br>
+        W okieneczko puk-puk-puk.</div>
+    <div class="one"> Panieneczka widzi żuka:<br>
+        "Czego pan tu u mnie szuka?"</div>
+    <div class="one"> Skoczył żuk jak polny konik,<br>
+        Z galanterią zdjął melonik </div>
+    <div class="one"> I powiada: "Wstań, biedronko,<br>
+        Wyjdź, biedronko, przyjdź na słonko.</div>
+    <div class="one"> Wezmę ciebie aż na łączkę<br>
+        I poproszę o twą rączkę"</div>
+    <div class="one"> Oburzyła się biedronka:<br>
+        "Niech pan tutaj się nie błąka,<br>
+        Niech pan zmiata i nie lata,<br>
+        I zostawi lepiej mnie,<br>
+        Bo ja jestem piegowata,<br>
+        A pan - nie!"</div>
+    <div class="one"> Powiedziała, co wiedziała,<br>
+        I czym prędzej odleciała, </div>
+    <div class="one">Poleciała, a wieczorem <br>
+        Ślub już brała - z muchomorem, </div>
+    <div class="one"> Bo od środka aż po brzegi<br>
+        Miał wspaniałe, wielkie piegi.</div>
+    <div class="one">Stąd nauka
+        Jest dla żuka:
+        Żuk na żonę żuka szuka. 
+    </div>
+    <footer>
+    </footer>
+</body>
+</html>
